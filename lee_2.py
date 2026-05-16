@@ -1,8 +1,3 @@
-"""
-Волновой алгоритм Ли — поиск кратчайшего пути в сетке
-Дисциплина: Скриптовые языки
-"""
-
 import tkinter as tk
 from tkinter import ttk, messagebox
 import psycopg2
